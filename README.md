@@ -26,5 +26,5 @@ GLOBAL OPTIONS:
 
 ## Sample
 ```bash
-goawk -c '{print $1}' -f test.txt -F '[:]'
+goawk -c '{print $1}' -f test.txt -F '[ ]'
 ```
